@@ -1,4 +1,8 @@
-# Prudential-Life-Insurance-Assessment--Machine-Learning
+# Prudential Life-Insurance Assessment(MachineLearning/Keras)
+
+<p align="center">
+  <img width="460" height="100" src="https://www.dailybreeze.com/wp-content/uploads/2018/02/prudential_logo.jpg">
+</p>
 
 Prudential Life insurance Kaggle Data
 
